@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925805191278",
+    "project_id": "asisteya-d3569",
+    "storage_bucket": "asisteya-d3569.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925805191278:android:abef01ce7f6fa4c924867f",
+        "android_client_info": {
+          "package_name": "com.example.mrc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd0XQvcZWk_li3I6Qgb5o4JGxIGc5RrnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
